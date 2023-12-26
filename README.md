@@ -1,1 +1,1 @@
-main track paper of aaai 2024
+# Main track paper on AAAI 2024
